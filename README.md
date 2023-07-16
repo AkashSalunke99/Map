@@ -12,4 +12,4 @@ ureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json>
 8. University details, such as name, distance from the user's current location, state, etc. is also displayed on tap on university annotation.
 9. If a route is not found from the user's location to a university, a message dispalyed stating that the route could not be found.
 
-UI video: 
+UI video: https://drive.google.com/file/d/10LARCRRs1pzEBBvY39gd8GcgWlEewk_u
